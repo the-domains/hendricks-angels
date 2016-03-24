@@ -1,0 +1,14 @@
+layout_spectrum: 0.3112306
+color:
+  saturation: 0.5203106
+  lightness: 0.5035841
+  brandStrength: 1
+  brandColors:
+    - '#066839'
+    - '#FFFFFF'
+    - '#FFD602'
+    - '#3A926A'
+    - '#ABE6CC'
+  rhythmicContrast: 0.2682198
+typography_spectrum: 0.3637992
+name: Hendricks Angels
