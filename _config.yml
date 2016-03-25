@@ -1,14 +1,29 @@
+name: Hendricks Angels
+favicon: null
 layout_spectrum: 0.3112306
+typography_spectrum: 0.3637992
+title: Hendricks Angels
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5203106
-  lightness: 0.5035841
-  brandStrength: 1
   brandColors:
     - '#066839'
     - '#FFFFFF'
     - '#FFD602'
     - '#3A926A'
     - '#ABE6CC'
+  brandStrength: 1
+  lightness: 0.5035841
+  saturation: 0.5203106
   rhythmicContrast: 0.2682198
-typography_spectrum: 0.3637992
-name: Hendricks Angels
+purpose: []
